@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 120" > 
+  <style>
+    .centrar{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      flex-direction: column;
+      border: 2px solid rgba(0,128,0,0.5);
+    }
+  </style>
+  <rect x="0" y="0" width="420" height="120" fill="rgb(199, 255, 199)"/>
+  <foreignObject x="10" y="10" width="400" height="100" style="color: black;">
+    <div class="centrar" style="width: 395px; height: 95px;" xmlns="http://www.w3.org/1999/xhtml">
+      <strong>Descripción</strong>
+      <div style="font-size:60%" xmlns="http://www.w3.org/1999/xhtml">
+        T-SNE es una técnica de reducción de dimensiones utilizada para la explotación de datos de grandes dimensiones que ha sido desarrollada en 2008 por Geoffrey Hinton y Laurens Van Der Maaten. Como en el caso del ACP, el objetivo es determinar un espacio más de menor dimensión conservando siempre la misma distancia entre los puntos.
+      </div>
+    </div>
+  </foreignObject>
+</svg>
